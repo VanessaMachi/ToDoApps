@@ -1,6 +1,9 @@
 # ToDoApps
 An Apps regarding to do list without SQL
 
+# Note
+It's a well file structure to follow for a new project 
+
 # Framework
 React Native
 
